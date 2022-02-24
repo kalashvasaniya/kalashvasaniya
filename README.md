@@ -1,4 +1,4 @@
-<h1> Hey, I'm Kalash Vasaniya </h1>
+<h1 align="center"> Hey, I'm Kalash Vasaniya </h1>
 
 <h2> Github Stats </h2>
 <div>
