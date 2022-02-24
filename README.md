@@ -1,4 +1,4 @@
-[![Watch the video](https://youtu.be/Os0bKh9WRFo)
+
 <h1 align="center">Hey, I'm Kalash Vasaniya</h1>
 <h3 align="center">frontend developer</h3>
 
