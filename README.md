@@ -1,4 +1,5 @@
-![alt text](http:///Users/kalashvasaniya/Downloads/KALASH%20VASANIYA1.png)
+<img src="![KALASH VASANIYA1](https://user-images.githubusercontent.com/88212870/155466289-dc624caf-15f7-4ac2-8f2b-fd6fa82e3507.png)
+"/>
 <h1 align="center">Hey, I'm Kalash Vasaniya</h1>
 <h3 align="center">Frontend developer</h3>
 
