@@ -19,7 +19,7 @@
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)
 -->
 
-<p align="center"> <img src=https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya> </p>
+<p align="center"> <img src=https://visitor-badge.laobi.icu/badge?page_id=kalashvasaniya.kalashvasaniya> </p>
 <h2> Get in Touch! </h2>
 <p align="center">
 <a href="mailto:kalashvasaniya@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
