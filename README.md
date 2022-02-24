@@ -2,8 +2,8 @@
 <h1 align="center">Hey, I'm Kalash Vasaniya</h1>
 <h3 align="center">Frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashvasaniya&label=Profile%20views&color=0e75b6&style=flat" alt="kalashvasaniya" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kalashvasaniya&label=Profile%20views&color=0e75b6&style=flat" alt="kalashvasaniya" /> </p>
+<p align="center">
 - 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Web Development**
@@ -11,6 +11,7 @@
 - 👯 I’m looking to collaborate on **Hackathon**
 
 - 📫 How to reach me **kalashvasaniya@gmail.com**
+</p>
 
 <h3 align="left">Let's Connect</h3>
 <p align="left">
