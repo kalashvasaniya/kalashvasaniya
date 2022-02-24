@@ -28,3 +28,5 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalashvasaniya&show_icons=true&locale=en" alt="kalashvasaniya" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalashvasaniya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="kalashvasaniya" /></p>
+
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushijaviya&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rushi's Github Stats"></p>
