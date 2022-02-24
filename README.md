@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/88212870/155466289-dc624caf-15f7-4ac2-8f2b-fd6fa82e3507.png
-"/>
+<!-- <img src="https://user-images.githubusercontent.com/88212870/155466289-dc624caf-15f7-4ac2-8f2b-fd6fa82e3507.png"/> -->
 <h1 align="center">Hey, I'm Kalash Vasaniya</h1>
 <h3 align="center">Frontend developer</h3>
 
