@@ -3,15 +3,11 @@
 <h3 align="center">Frontend developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalashvasaniya&label=Profile%20views&color=0e75b6&style=flat" alt="kalashvasaniya" /> </p>
-<p align="center">
-- 🔭 I’m currently working on **My Portfolio**
+<p align="center">- 🔭 I’m currently working on My Portfolio</p>
+<p align="center">- 🌱 I’m currently learning Web Development</p>
+<p align="center">- 👯 I’m looking to collaborate on **Hackathon</p>
+<p align="center">- 📫 How to reach me kalashvasaniya@gmail.com</p>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 👯 I’m looking to collaborate on **Hackathon**
-
-- 📫 How to reach me **kalashvasaniya@gmail.com**
-</p>
 
 <h3 align="left">Let's Connect</h3>
 <p align="left">
