@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalashvasaniya&show_icons=true&locale=en&layout=compact" alt="kalashvasaniya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalashvasaniya&show_icons=true&locale=en" alt="kalashvasaniya" background-color="black"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalashvasaniya&show_icons=true&locale=en" alt="kalashvasaniya" />ajcbj</p>
