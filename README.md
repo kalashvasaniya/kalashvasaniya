@@ -1,5 +1,5 @@
 <img src="https://octodex.github.com/images/femalecodertocat.png" height="400" align="right"/>
-<h1 align="center">Hi 👋, I'm Tanwi Kumari</h1>
+<h1 align="center">Hey, I'm Kalash Vasaniya</h1>
 <h3 align="left">A passionate Self Taught developer from India. Love to enhance my existing skills and gain new skills by exploring the technologies deeply. Extremely passionate about Development and Looking to find a long term position where my passion for development can be brought to some new projects.Open to new experience and willing to work as an key player in challenging and creative Environment.</h3>
 
 <h3 align="center">Visitor Count</h3>
