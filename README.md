@@ -22,7 +22,7 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalashvasaniya&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchGitHub&langs_count=8&layout=compact&title_color=0bfc03&icon_color=0bfc03&text_color=e0e0e0&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats" align="right" display=block width=100% height=auto  alt="4"  >
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashvasaniya&langs_count=8&layout=compact&title_color=0bfc03&icon_color=0bfc03&text_color=e0e0e0&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
