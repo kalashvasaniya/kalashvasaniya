@@ -9,20 +9,38 @@
   </p>
 </div>
 
-<p align="center"> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=kalashvasaniya&&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
+<hr>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashvasaniya&show_icons=true&layout=compact&hide_border=true&hide=CSS,HTML&hide_title=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Apurva-tech}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
+  
+</a>
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalashvasaniya&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
+<hr>
 
-<!--
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)
--->
+# Github Activity📊:
 
-<p align="center"> <img src=https://visitor-badge.laobi.icu/badge?page_id=kalashvasaniya.kalashvasaniya> </p>
-<h2> Get in Touch! </h2>
-<p align="center">
-<a href="mailto:kalashvasaniya@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kalashvasaniya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/kalashvasaniya" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kalashvasaniya&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashvasaniya&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalashvasaniya&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+  </td>
+  </tr>
+</table>
+
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalashvasaniya&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=kalashvasaniya&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
