@@ -4,7 +4,7 @@
 <div>
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=Rushijaviya&column=7&margin-w=15&margin-h=15&theme=darkhub&no-bg=true"/>
+    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=kalashvasaniya&column=7&margin-w=15&margin-h=15&theme=darkhub&no-bg=true"/>
   </a>
   </p>
 </div>
@@ -12,7 +12,7 @@
 <hr>
 
 <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{Apurva-tech}/count.svg">
+<a align="center" href="https://profile-counter.glitch.me/{kalashvasaniya}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
   
