@@ -36,6 +36,7 @@
       <td><img src="https://activity-graph.herokuapp.com/graph?username=kalashvasaniya&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
   </td>
   </tr>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalashvasaniya&show_icons=true&locale=en&layout=compact" alt="tanwi1234" /></p>
 </table>
 
 <h2> Github Stats </h2>
