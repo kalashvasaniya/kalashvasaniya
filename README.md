@@ -30,12 +30,16 @@
 # Productivity Stats📈:
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalashvasaniya&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalashvasaniya&theme=monokai"  display=block width=100% height=auto ></td>
    </tr> 
+  <tr>
+    <td>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs
   username=kalashvasaniya&show_icons=true&locale=en&layout=compact&color=be90f2&bg_color=1a1b27" alt="kalashvasaniya" /></p>
+    </td>
+  </tr>
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=kalashvasaniya&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=kalashvasaniya&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto ></td>
   </td>
   </tr>
   
