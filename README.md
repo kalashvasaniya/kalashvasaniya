@@ -27,7 +27,8 @@
   </tr>
    <tr>
     <td>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalashvasaniya&show_icons=true&locale=en&layout=compact&color=be90f2&bg_color=1a1b27" alt="kalashvasaniya" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalashvasaniya&show_icons=true&locale=en&layout=compact&color=be90f2&bg_color=1a1b27"
+       display=block width=100% height=auto alt="kalashvasaniya" /></p>
     </td>
   </tr>
 </table>
