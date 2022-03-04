@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+I'm+Kalash+Vasaniya">
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+I'm+Kalash+Vasaniya)](https://git.io/typing-svg) -->
-<h3 align="left">A passionate Self Taught developer from India. Love to enhance my existing skills and gain new skills by exploring the technologies deeply. Extremely passionate about Development and Looking to find a long term position where my passion for development can be brought to some new projects.Open to new experience and willing to work as an key player in challenging and creative Environment.</h3>
+<h3 align="left">Hi! I’m kalash
+I'm undergraduate 1st years computer science student from VIT vellore, A passionate Self Taught developer from India. Love to enhance my existing skills and gain new skills by exploring the technologies deeply. Extremely passionate about Development and Looking to find a long term position where my passion for development can be brought to some new projects.</h3>
 
 <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{kalashvasaniya}/count.svg">
