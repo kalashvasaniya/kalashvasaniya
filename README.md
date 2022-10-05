@@ -1,4 +1,3 @@
-<img src="https://octodex.github.com//images/daftpunktocat-thomas.gif" height="400" align="right"/>
 <!-- <h1 align="center">Hey, I'm Kalash Vasaniya</h1> -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+I'm+Kalash+Vasaniya.">
