@@ -20,37 +20,14 @@ I'm undergraduate 2st years computer science student, A passionate Self Taught d
 
 <hr>
 
-# Github Activity📊:
+<h3 align="left">Github Activity:</h3>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kalashvasaniya&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalashvasaniya&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-  </tr>
-   <tr>
-    <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalashvasaniya&show_icons=true&locale=en&layout=compact&color=be90f2&bg_color=1a1b27"
-       display=block width=100% height=auto alt="kalashvasaniya" /></p>
-    </td>
-  </tr>
-</table>
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalashvasaniya&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalashvasaniya&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalashvasaniya&theme=github_dark)|
+|---|---|---|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalashvasaniya&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalashvasaniya&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=kalashvasaniya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
+---
 
-# Productivity Stats📈:
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalashvasaniya&theme=monokai"  display=block width=100% height=auto ></td>
-   </tr> 
- 
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=kalashvasaniya&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto ></td>
-  </td>
-  </tr>
-  
-</table>
-
-<h2> Github Stats </h2>
+<h3 align="left">Github Stats:</h3>
 <div>
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
