@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+I'm+Kalash+Vasaniya.">
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+I'm+Kalash+Vasaniya)](https://git.io/typing-svg) -->
-<h3 align="left">Hello there! I'm Kalash, a computer science student in my pre-final undergraduate year. I'm a dedicated self-taught developer hailing from India. I am enthusiastic about refining my current skills and acquiring new ones by delving into various technologies. My fervor for development is profound, and I am actively seeking a lasting position where I can contribute my passion to exciting new projects.</h3>
+<h3 align="left">Hello there! I'm Kalash, a computer science student in my final year. I'm a dedicated self-taught developer hailing from India. I am enthusiastic about refining my current skills and acquiring new ones by delving into various technologies. My fervor for development is profound, and I am actively seeking a lasting position where I can contribute my passion to exciting new projects.</h3>
 
 <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{kalashvasaniya}/count.svg">
