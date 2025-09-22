@@ -12,6 +12,8 @@ Hi, I'm **Kalash Vasaniya**, a self-taught developer and final-year Computer Sci
 
 I love solving real-world problems through code and am constantly refining my skills through personal projects, hackathons, and open-source contributions. I'm currently seeking full-time opportunities to bring my energy and ideas to exciting teams and projects.
 
+[![Kalash Vasaniya profile views](https://u8views.com/api/v1/github/profiles/88212870/views/day-week-month-total-count.svg)](https://u8views.com/github/kalashvasaniya)
+
 ---
 
 ### 🧰 Tech Stack & Tools
