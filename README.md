@@ -9,3 +9,5 @@ indie hacker, content creator and occasional writer. i love turning ideas into r
 you can also [find me](https://www.kalashvasaniya.com/hi) or view my [portfolio](https://www.kalashvasaniya.com/portfolio).
 
 [![ScrollLaunch — Featured on ScrollLaunch](https://www.scrolllaunch.com/api/badge/scrolllaunch?variant=featured&theme=light)](https://www.scrolllaunch.com/products/scrolllaunch?ref=badge)
+
+[![My subscription stack on Track My Subscriptions](https://www.trackmysubscriptions.com/badge/stack/kalashvasaniya.svg)](https://www.trackmysubscriptions.com/@kalashvasaniya)
